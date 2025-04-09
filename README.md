@@ -1,4 +1,4 @@
-# FullStack-Assignment-Pradeep-B-
+# Basic Company Career Page
 
 ## Career Management Project
 
